@@ -19,3 +19,16 @@
 4. Follow the Installization wizard for installing GIT.
 5. Open Settings/Finder on your device, Search up Webstorm and launch.
 6. Open Settings, go to Version Control and Select GIT.
+
+## Connect Webstorm to GITHUB
+1. Open Webstorm.
+2. Navigate to Settings. Version Control and Select GITHUB.
+3. Click the  plus/"+" icon and follow the prompt saying "Log-in via GITHUB".
+4. Authorize Webstorm in your browser.
+5. Once done, Go back to webstorm.
+6. Go to file > new > Project from Version Control.
+7. Select GITHUB and your "assignment name" repository.
+8. Select a local destination folder to store the folder in Webstorm.
+9. Open GITHUB or Webstorm and edit and add to your README file.
+10. If using GITHUB for readme, click the commit button to commit changes and add an comment explaining your commit.
+10. If using WEBSTORM for readme, add a commit message and push it to GITHUB.      
