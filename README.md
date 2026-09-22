@@ -31,4 +31,30 @@
 8. Select a local destination folder to store the folder in Webstorm.
 9. Open GITHUB or Webstorm and edit and add to your README file.
 10. If using GITHUB for readme, click the commit button to commit changes and add an comment explaining your commit.
-10. If using WEBSTORM for readme, add a commit message and push it to GITHUB.      
+10. If using WEBSTORM for readme, add a commit message and push it to GITHUB.
+
+
+### Why GIT is important
+Git is important because it is a distributed version control system that tracks history, saves snapshots (milestones) of your files, prevents data loss, and enables seamless collaboration with other developers. 
+
+## Glossary
+1. **GIT** - A version control system that tracks file changes. Helps for multi-user environments.
+2. **GITHUB** - Web version to use GIT repos to code, manage projects and collaborate.
+3. **Repository/Repo** - Project folder where all files and history is stored.
+4. **Branch** - A parallel version of a remote repo. Helps when you want to work on the code without altering it.
+5. **Clone** - A local copy of a remote repo on your device.
+6. **Commit** - Saving your changes in your file.
+7. **Fetch** - Downloading latest updates from your file without merging them in your main remote document.
+8. **Merge** - Combinbing changes from multiple branches.
+9. **Merge Conflict** - When GIT/GITHUB cannot merge the branches without issues.
+10. **Remote** - Your project stored on a service like GITHUB rather than your local machine.
+11. **Push** - Uploading your LOCAL changes to your REMOTE repo. 
+12. **Pull** - Downloading changes from REMOTE repo and merging them to your LOCAL files. 
+
+
+
+
+#### Referrences
+(https://www.google.com/)
+(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+(https://www.jetbrains.com/help/webstorm/working-with-git-tutorial.html)
