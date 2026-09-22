@@ -1,7 +1,7 @@
 # A02
 
 ## How to make an account and set up a repository on GITHUB.
-1. Open Github.com
+1. Open Github.com (https://github.com/)
 2. Click on the 'Sign up' button.
 3. Enter your preferred way of signing up. (Either your google account or your email address.)
 4. Set up your username and password.
@@ -10,4 +10,12 @@
 7. Select "new repository" from the drop-down menu.
 8. Fill out the repository's name. Preferably your assignment name.
 9. Select add READ Me file. Keep your file public.
-10. Select done and you now have a repository!.
+10. Select "Create Repository" and you now have a repository!.
+
+## How to set-up Webstorm and GIT
+1. Download Webstorm from the Webstorm page. (https://www.jetbrains.com/webstorm/)
+2. Follow the Installization wizard in installing Webstorm.
+3. Download GIT from GIT website. (https://git-scm.com/install/)
+4. Follow the Installization wizard for installing GIT.
+5. Open Settings/Finder on your device, Search up Webstorm and launch.
+6. Open Settings, go to Version Control and Select GIT.
